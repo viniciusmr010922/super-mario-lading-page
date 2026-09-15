@@ -1,6 +1,3 @@
-# super-mario-lading-page
-Landing page temática do Super Mario desenvolvida com HTML, CSS e JavaScript.
-
 # 🍄 Super Mario - Landing Page
 
 Uma landing page temática e interativa do universo Super Mario, desenvolvida para praticar conceitos de HTML, CSS e JavaScript.
